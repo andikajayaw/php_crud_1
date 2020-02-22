@@ -1,6 +1,6 @@
 <?php 
-require_once("../crud1/php/component.php");
-require_once("../crud1/php/operation.php")
+require_once("php/component.php");
+require_once("php/operation.php")
 
 ?>
 <!DOCTYPE html>
